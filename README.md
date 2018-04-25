@@ -107,6 +107,4 @@ If you remove the session cookies and refresh the page, you'll notice that you'v
 
 Chrome also comes bundled with a special 'Incognito' mode that doesn't persist _any_ cookies –– session or otherwise –– beyond the scope of a given browsing session. If you log in to Learn from an Incognito window, Chrome will create the cookies needed to run that session, but it will not create any long-term, cached cookies. Because of this functionality, Incognito mode is often helpful while debugging session and cookie issues.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/sinatra-mechanics-of-sessions-readme'>Mechanics of Sessions</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/sinatra-mechanics-of-sessions-readme'>Mechanics of Sessions</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Mechanics of Sessions</p>
